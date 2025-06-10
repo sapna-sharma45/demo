@@ -1,3 +1,3 @@
 # demo
-it's my first git repository
+it's my first git repository.
 Author-sapana sharma
